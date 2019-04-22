@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "83915525101",
+    "firebase_url": "https://autoemergencyapp.firebaseio.com",
+    "project_id": "autoemergencyapp",
+    "storage_bucket": "autoemergencyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83915525101:android:f3766e74ba81c563",
+        "android_client_info": {
+          "package_name": "com.example.autoemergencyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83915525101-1oli9rlsg4u9kojn11251fejs76emvnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autoemergencyapp",
+            "certificate_hash": "19e7991a18f70a877b4114f7a1a70e2f9b9f09f1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_FXe_CKk2u5XOJUIgbjWruTN6072nUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83915525101-ttbffsg9ohf12mf0gr68jatrs9gm77jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoEmergencyApp</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_caller_map">Map</string>
+</resources>
